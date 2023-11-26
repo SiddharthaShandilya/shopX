@@ -82,7 +82,7 @@ Repo for the Ecommerece Project (https://github.com/abhibansal60/backend-mentors
 
 - Anthony Clinton 
 - Sumukha
-- Siddharta Shandilya
+- Siddharta Shandilya [ tiral to raise a pr]
 - Abhinav Bansal
 
 
